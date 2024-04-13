@@ -1,3 +1,5 @@
+## Perceptual Aliasing
+
 In the huggingface course [advantages and disadvantages PG method](https://huggingface.co/learn/deep-rl-course/unit4/advantages-disadvantages#policy-gradient-methods-can-learn-a-stochastic-policy), It refers to the problem of perceptual aliasing:
 
 >  Perceptual aliasing is when two states seem (or are) the same but need different actions.
